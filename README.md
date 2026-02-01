@@ -14,3 +14,8 @@ chmod +x server-stats.sh
 ```bash
 ./server-stats.sh
 ```
+
+
+### Below is the project url
+
+- https://github.com/asingo-paul/server-stats
