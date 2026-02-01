@@ -19,3 +19,5 @@ chmod +x server-stats.sh
 ### Below is the project url
 
 - https://github.com/asingo-paul/server-stats
+
+- https://roadmap.sh/projects/server-stats
